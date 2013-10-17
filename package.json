@@ -1,0 +1,34 @@
+{
+  "name": "ModularJS",
+  "version": "0.0.1",
+  "description": "Javascript namespace pattern implementation",
+  "main": "src/modular.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dimenor/ModularJS.git"
+  },
+  "keywords": [
+    "javascript",
+    "namespace",
+    "pattern",
+    "simple"
+  ],
+  "author": "Felipe Brito",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "4bc9ff240773b85b8816e580e9fba02254812b8c",
+  "bugs": {
+    "url": "https://github.com/Dimenor/ModularJS/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jasmine": "~0.5.2",
+    "grunt-contrib-jshint": "~0.6.4"
+  }
+}
